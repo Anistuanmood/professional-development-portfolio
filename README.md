@@ -1,3 +1,3 @@
 # professional-development-portfolio
-About Me
+# About Me
 Hello there! My name is Tuan Nur Hazawanis, and I am from Kelantan. I recently graduated from Kolej Matrikulasi Kelantan, where I studied Physical Science. Currently, I am pursuing a Bachelor of Computer Science in Graphics and Multimedia Software at UTM. I chose this course because I find it interesting and want to learn more about it. I have basic knowledge of Java programming and video editing, and I hope to improve my skills, learn new things, and gain more experience throughout my studies. In the future, I hope to have a career related to software development or multimedia. 
